@@ -40,7 +40,8 @@
 			"image_path": "http://jeff.mimic.ca/p/androidto/bojack.jpg",
 			"company": "University of Toronto (Mississauga)",
 			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com"
+			"linked_in": "https://example.com",
+			"github": ""
 		},
 		{
 			"id": "diane",
