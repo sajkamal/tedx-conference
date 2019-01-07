@@ -1,11 +1,11 @@
 {
   "about": {
     "venue": {
-      "name": "MaRS Discovery District",
-      "address": "101 College St, Toronto, ON M5G 1L7, Canada",
+      "name": "Mississauga Convention Centre",
+      "address": "75 Derry Road West, Mississauga, ON L5W 1G3, Canada",
       "image_path": "images/venue.png"
     },
-    "description": "Ships are the transformators of the extraterrestrial attitude.",
+    "description": "TEDxMississauga App",
     "twitter": "https://twitter.com/androidTO",
     "website": "http://androidto.com",
     "contact_email": "mailto:example@email.com",
@@ -24,7 +24,7 @@
         "name": "Android Pub Night",
         "image_path": "https://secure.meetupstatic.com/photos/event/3/1/1/5/600_475692565.jpeg",
         "website": "http://www.meetup.com/Android-Pub-Night/",
-        "link_type_id": "sponsor"
+        "link_type_id": "supporter"
       },
       {
         "name": "Kotlin Toronto",
