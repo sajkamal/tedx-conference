@@ -233,7 +233,7 @@
 	"schedule": [{
 			"time": "8:00am",
 			"talks": [{
-				"speaker_id": "ashley",
+				"speaker_id": "wali",
 				"track_id": "main",
 				"talk_type_id": "technical",
 				"title": "Exist and you will be invented extraordinarilly.",
@@ -243,14 +243,14 @@
 		{
 			"time": "8:30am",
 			"talks": [{
-					"speaker_id": "ashley",
+					"speaker_id": "wali",
 					"track_id": "track1",
 					"talk_type_id": "fun",
 					"title": "Silence is not closest in order, the home, or paradise, but everywhere.",
 					"description": "Samadhi is not one in chaos, the country of tantra, or paradise, but everywhere."
 				},
 				{
-					"speaker_id": "ashley",
+					"speaker_id": "wali",
 					"track_id": "track2",
 					"talk_type_id": "room",
 					"title": "Heavens is not the holy freedom of the explosion of the conclusion.",
@@ -261,7 +261,7 @@
 		{
 			"time": "9:00am",
 			"talks": [{
-				"speaker_id": "ashley",
+				"speaker_id": "wali",
 				"track_id": "main",
 				"talk_type_id": "technical",
 				"title": "Gabaliums ortum in quadrata!",
