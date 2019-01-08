@@ -250,7 +250,7 @@
 					"description": "Samadhi is not one in chaos, the country of tantra, or paradise, but everywhere."
 				},
 				{
-					"speaker_id": "wali",
+					"speaker_id": "ashley",
 					"track_id": "track2",
 					"talk_type_id": "room",
 					"title": "Heavens is not the holy freedom of the explosion of the conclusion.",
@@ -261,7 +261,7 @@
 		{
 			"time": "9:00am",
 			"talks": [{
-				"speaker_id": "wali",
+				"speaker_id": "thea",
 				"track_id": "main",
 				"talk_type_id": "technical",
 				"title": "Gabaliums ortum in quadrata!",
