@@ -180,44 +180,58 @@
 			"company": "Vocalist",
 			"twitter": "",
 			"linked_in": ""
+		},
+		{
+			"id": "randy",
+			"name": "Randy Persaud",
+			"bio": "",
+			"image_path": "https://static.wixstatic.com/media/6a6770_7a4430421d9940659afad5e7b8483649~mv2.jpg/v1/crop/x_205,y_221,w_336,h_347/fill/w_210,h_215,al_c,q_80,usm_0.66_1.00_0.01/unnamed.webp",
+			"company": "MC",
+			"twitter": "",
+			"linked_in": ""
 		}
 
 	],
 	"tracks": [{
-			"id": "main",
+			"id": "track1",
 			"name": "Main",
 			"color": "#F0C674"
 		},
 		{
-			"id": "track1",
-			"name": "Track 1",
+			"id": "track2",
+			"name": "Performance",
 			"color": "#CC6666"
 		},
 		{
-			"id": "track2",
-			"name": "Track 2",
+			"id": "track3",
+			"name": "TED Video",
 			"color": "#B5BD68"
 		}
 	],
 	"talk_types": [{
-			"id": "technical",
-			"name": "Technical",
+			"id": "talk",
+			"name": "Talk",
 			"material_icon": "grade",
-			"description": "This talk is considered technical"
+			"description": "This will be a live TEDxMississauga talk"
 		},
 		{
-			"id": "room",
-			"name": "Whole Room",
+			"id": "performance",
+			"name": "Performance",
 			"material_icon": "all_inclusive",
-			"description": "This talk is can be enjoyed by everyone"
+			"description": "This will be a live performance"
 		},
 		{
-			"id": "fun",
-			"name": "Fun",
+			"id": "video",
+			"name": "Video",
 			"material_icon": "tag_faces",
-			"description": "This talk is for fun"
+			"description": "A TED video will be played"
 		},
 		{
+			"id": "conference",
+			"name": "conference",
+			"material_icon": "tag_faces",
+			"description": "Conference Activities"
+		}, {
 			"id": "break",
 			"name": "Break",
 			"material_icon": "free_breakfast",
@@ -225,49 +239,78 @@
 		}
 	],
 	"schedule": [{
-			"time": "8:00am",
-			"talks": [{
-				"speaker_id": "wali",
-				"track_id": "main",
-				"talk_type_id": "technical",
-				"title": "Exist and you will be invented extraordinarilly.",
-				"description": "Suns, moons, and apostolic winds will always protect them."
-			}]
-		},
-		{
-			"time": "8:30am",
-			"talks": [{
-					"speaker_id": "craig",
-					"track_id": "track1",
-					"talk_type_id": "fun",
-					"title": "Silence is not closest in order, the home, or paradise, but everywhere.",
-					"description": "Samadhi is not one in chaos, the country of tantra, or paradise, but everywhere."
-				},
-				{
-					"speaker_id": "ashley",
-					"track_id": "track2",
-					"talk_type_id": "room",
-					"title": "Heavens is not the holy freedom of the explosion of the conclusion.",
-					"description": "In upstairs PLURALdie silently density."
-				}
-			]
-		},
-		{
 			"time": "9:00am",
 			"talks": [{
-				"speaker_id": "thea",
-				"track_id": "main",
-				"talk_type_id": "technical",
-				"title": "Gabaliums ortum in quadrata!",
-				"description": "If you travel or do with an eternal anger, control studies you."
+				"talk_type_id": "conference",
+				"title": "Doors open",
+				"description": "Doors Open, Registration Begins"
 			}]
 		},
 		{
-			"time": "10:00am",
+			"time": "9:55am",
+			"talks": [{
+				"speaker_id": "randy",
+				"track_id": "track1",
+				"talk_type_id": "conference",
+				"title": "Intro and Welcome",
+				"description": "Official TEDx intro, announcements and housekeeping"
+			}]
+		},
+		{
+			"time": "10:10am",
+			"talks": [{
+				"speaker_id": "michelle",
+				"track_id": "track2",
+				"talk_type_id": "performance",
+				"title": "Groove Activations",
+				"description": "Move around. Expend some energy"
+			}]
+		},
+		{
+			"time": "10:20am",
+			"talks": [{
+				"speaker_id": "ashley",
+				"track_id": "track1",
+				"talk_type_id": "talk",
+				"title": "Prisons",
+				"description": "Decription about prisons"
+			}]
+		},
+		{
+			"time": "10:20am",
+			"talks": [{
+				"track_id": "track2",
+				"talk_type_id": "video",
+				"title": "How languages shapes the way we think",
+				"description": ""
+			}]
+		},
+		{
+			"time": "10:20am",
+			"talks": [{
+				"speaker_id": "craig",
+				"track_id": "main",
+				"talk_type_id": "talk",
+				"title": "Cybersecurity",
+				"description": "Cyber terrorism"
+			}]
+		},
+		{
+			"time": "10:20am",
+			"talks": [{
+				"speaker_id": "nadia",
+				"track_id": "main",
+				"talk_type_id": "talk",
+				"title": "Pets x Happiness",
+				"description": "Happy Pets"
+			}]
+		},
+		{
+			"time": "10:20am",
 			"talks": [{
 				"talk_type_id": "break",
-				"title": "Time for a break!",
-				"description": "Go grab an ice cold coke and chill.."
+				"title": "Lunch",
+				"description": "Enjoy lunch and conversation"
 			}]
 		}
 	]
