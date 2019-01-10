@@ -6,7 +6,7 @@
 			"image_path": "images/venue.png"
 		},
 		"description": "TEDxMississauga App",
-		"twitter": "https://twitter.com/androidTO",
+		"twitter": "",
 		"website": "https://www.tedxmississauga.com/",
 		"contact_email": "mailto:info@tedxmississauga.com",
 		"link_types": [{
@@ -16,73 +16,73 @@
 		"links": [{
 				"name": "Teal Events",
 				"image_path": "https://static.wixstatic.com/media/6a6770_67be41279efa40719be94d5c5c780fdf~mv2_d_1200_1200_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_67be41279efa40719be94d5c5c780fdf~mv2_d_1200_1200_s_2.webp",
-				"website": "http://www.meetup.com/Android-Pub-Night/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Greater Toronto Marketing",
 				"image_path": "https://static.wixstatic.com/media/6a6770_85ddb3d86f6d46c788a48f77407e38d0~mv2_d_1200_1200_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_85ddb3d86f6d46c788a48f77407e38d0~mv2_d_1200_1200_s_2.webp",
-				"website": "https://www.meetup.com/Kotlin-Toronto/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "KPA Lawyers",
 				"image_path": "https://static.wixstatic.com/media/6a6770_6daf4ca41cdb469489850b7c16ed8737~mv2_d_2000_2000_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_6daf4ca41cdb469489850b7c16ed8737~mv2_d_2000_2000_s_2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Canadian Blood Services",
 				"image_path": "https://static.wixstatic.com/media/6a6770_5c128d572afa4d65b7f7097d0b62ef60~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_5c128d572afa4d65b7f7097d0b62ef60~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Sauga 960FM",
 				"image_path": "https://static.wixstatic.com/media/6a6770_80f29ffb78b948858f03a713c196b5c0~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_80f29ffb78b948858f03a713c196b5c0~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "SCI ART",
 				"image_path": "https://static.wixstatic.com/media/6a6770_e26b26422ec041179832c01965b6c406~mv2.jpg/v1/fill/w_218,h_227,al_c,lg_1,q_80/6a6770_e26b26422ec041179832c01965b6c406~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "AGM",
 				"image_path": "https://static.wixstatic.com/media/6a6770_eae54902c8154f93a5a55f2f2a6c6d1c~mv2_d_2700_1400_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_eae54902c8154f93a5a55f2f2a6c6d1c~mv2_d_2700_1400_s_2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Studio.89",
 				"image_path": "https://static.wixstatic.com/media/6a6770_46bd8464dc584eee9d9d52214fcf0a7a~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_46bd8464dc584eee9d9d52214fcf0a7a~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Dr. Sabrina Ahmed",
 				"image_path": "https://static.wixstatic.com/media/6a6770_ed1e09cdd7c24781b4c173f6bec2a583~mv2.jpg/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_ed1e09cdd7c24781b4c173f6bec2a583~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Simply Elegant by Fouzia",
 				"image_path": "https://static.wixstatic.com/media/6a6770_c6bc7fee4eac4965aa6e6d8bc024a23a~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_c6bc7fee4eac4965aa6e6d8bc024a23a~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Slap Stick",
 				"image_path": "https://static.wixstatic.com/media/6a6770_65bda85512e84a2fb1c4cd7174a50be6~mv2.jpg/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_65bda85512e84a2fb1c4cd7174a50be6~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Soho Sweet Carts",
 				"image_path": "https://static.wixstatic.com/media/6a6770_75b76ff7f1b648b28c5ee8acfeecd609~mv2.jpg/v1/fill/w_202,h_210,al_c,lg_1,q_80/6a6770_75b76ff7f1b648b28c5ee8acfeecd609~mv2.webp",
-				"website": "https://www.meetup.com/ToAndroidDev/",
+				"website": "",
 				"link_type_id": "supporter"
 			}
 
@@ -92,100 +92,94 @@
 	"speakers": [{
 			"id": "ashley",
 			"name": "Dr. Ashely Rubin",
-			"bio": "BoJack Horseman is a self-loathing 52-year-old alcoholic horse whose acting career peaked when he starred in a successful family sitcom called Horsin' Around in the late 1980s and later 'The Bojack Horseman Show' which was cancelled after one season, in 2007.\n\nThough he began as a young bright-eyed actor, he has since grown bitter, deeply depressed, and jaded towards Hollywood and who he has become post-fame. BoJack has been shown to be caring and insightful, but his insecurities, loneliness, and desperate need for approval often result in self-destructive actions that devastate those around him.\n\nMany of his issues stem from his childhood and issues with his unhappy parents, which the audience is shown through flashbacks.",
+			"bio": "Professor Rubin received her PhD in Jurisprudence and Social Policy from the University of California, Berkeley, in 2013 and joined the University of Toronto in 2016. She teaches courses in crime and socio-legal studies and organizational theory.\n\nHer current research reexamines the dynamics of penal change, focusing on the introduction of new punishments in America and England from the seventeenth century through the early twentieth century. Her interdisciplinary research draws on neo-institutional theory, the law and society literature, and socio-historical studies of punishment. She has projects exploring the uses of penal incarceration before first state prisons, the rise and decline of the proto-prison and modern prison, and the effect of prison authorizations on existing punishments in the United States. Her research also examines the theoretical consequences of analyzing prisons as organizations, including recognizing the dynamics of the diffusion of penal innovations, the tension between organizational concerns and penal goals, and the professionalization efforts of early prison administrators.\n\nShe is currently writing a monograph on Eastern State Penitentiary (opened in 1829 in Philadelphia, PA, USA) that explores the role of prison administrators in securing that historic prison’s rejection of field-wide norms despite intense criticism and pressures to the contrary. She has additional projects that focus on prisoners and their experience of and relationship to the prison regime; these projects focus on the causes and consequences of that behavior frequently described as resistance. \n\nHer research can be found in the Law & Society Review, Law & Social Inquiry, Punishment & Society, and Theoretical Criminology, among other outlets.",
 			"image_path": "https://static.wixstatic.com/media/6a6770_656dfbeb728441248478d4d44ae4afcd~mv2_d_3680_5520_s_4_2.jpg/v1/crop/x_0,y_322,w_3680,h_3680/fill/w_160,h_160,al_c,q_80,usm_0.66_1.00_0.01/6a6770_656dfbeb728441248478d4d44ae4afcd~mv2_d_3680_5520_s_4_2.webp",
 			"company": "University of Toronto (Mississauga)",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com"
+			"twitter": "",
+			"linked_in": ""
 		},
 		{
 			"id": "marwa",
 			"name": "Dr. Marwa Azab",
-			"bio": "Diane Nguyen is a human ghostwriter, a nice, well-reasoned, misunderstood intellectual, and a Vietnamese-American third-wave feminist from Boston who lives with her rich and famous boyfriend (and later husband), former sitcom star Mr. Peanutbutter.\n\nWhile writing BoJack's memoir, he and Diane initially develop a strong friendship that becomes increasingly awkward and strained after BoJack develops romantic feelings for her. Diane travels to the war-torn Republic of Cordovia to make a difference, but discovers that this life is not for her. Ashamed of returning to her husband, she develops a severe bout of depression, during which she drinks heavily and sleeps disheveled on BoJack's patio furniture. She is able to reconcile her feelings with Mr. Peanutbutter and gets a job at VIM ghostwriting tweets for celebrities. She is subsequently fired from VIM, and is hired to write for a feminist blog.\n\nDuring and after Mr. Peanutbutter's run for Governor of California their marriage begins to deteriorate and, at the beginning of Season 5, they divorce.",
+			"bio": "r. Azab is an adjunct professor of psychology and human development at California State University, Long Beach. She studied psychology for many years and completed a Masters in Counseling from Adler University and a Ph.D. in Neuroscience from the University of California. \n\nShe has facilitated many groups such as anger management, stress management, interpersonal communication and many others. Her academic background  allows her to decipher many conundrums. She has taught mental health professionals all over the United States, Canada and Singapore how to take advantage of brain science in therapy. \n\nShe has given four TEDx talks, including “The Logical Vs. The Reflexive Brain: Only One Wins” & \"Highly Sensitive? Should you change?\" and she is a writer for Psychology Today. ",
 			"image_path": "https://static.wixstatic.com/media/6a6770_314629ee1fc24b61b5f39d6231982838~mv2.jpg/v1/crop/x_0,y_0,w_504,h_503/fill/w_160,h_160,al_c,q_80,usm_0.66_1.00_0.01/6a6770_314629ee1fc24b61b5f39d6231982838~mv2.webp",
 			"company": "California State University",
-			"twitter": "https://twitter.com/BoJackHorseman",
+			"twitter": "",
 			"linked_in": ""
 		},
 		{
 			"id": "nadia",
 			"name": "Dr. Nadia Hirani",
-			"bio": "Mr. Peanutbutter is an energetic and cheerful yellow Labrador Retriever who is BoJack's former sitcom rival and Diane's boyfriend (and later husband). Mr. Peanutbutter was the star of Mr. Peanutbutter's House, which, according to BoJack, \"borrowed the premise\" from Horsin' Around. He portrays many characteristics of a actual labrador yet portrayed as a human like character being sweet, loyal, kind, playful, and considerate.\n\nHe had a stint at filming a celebrity reality show called Peanutbutter and Jelly. Despite their rivalry, Mr. Peanutbutter cares a great deal about BoJack's opinion and admires him for his work on Horsin' Around. He has an especially good relationship with Todd, and his positive attitude and financial resources combined with Todd's outlandish schemes and plans often result in the two starting questionable business ventures, such as a Halloween store that is exclusively open in January.\n\nIn the episode \"Let's Find Out\", Mr. Peanutbutter starts hosting his own televised game show after his film company enters bankruptcy due to his and Todd's extensive expenditures on useless products. In \"Hank After Dark\", it is revealed that Mr. Peanutbutter was formerly married to a woman named Katrina who was emotionally abusive. His second wife was famous actress Jessica Biel, who is portrayed as being obsessed with her celebrity status and people recognizing her.\n\nHe grew up in the Labrador Peninsula, which is depicted as being populated entirely by Labrador Retrievers. \"Mr.\" is his actual first name. He often shouts to an offscreen, but implicatively outlandish, presence only known as \"Erica\". He is a graduate of Northwestern University.\n\nAfter his divorce with Diane, he started dating a pug named Pickles who is much younger than him but shares a lot of the same characteristics. At the end of the season 5 finale, he proposes to her.",
+			"bio": "Dr. Hirani is a mother, veterinarian and entrepreneur. She completed her Bachelor of Science degree in Biological Sciences, with honors at the University of Guelph and pursued her Bachelor of Veterinary Science at the University Of Sydney, Australia.\n\nDr. Hirani worked in Australia for a short while prior to moving to the Greater Quinte Region where she worked in general and emergency practices. In 2015, her dreams came true as she opened the doors to a private practice, still running successfully. In 2017, through the Self Expression and Leadership program of Landmark, Dr. Hirani brought forth Pawz for Cause, a volunteer initiative supporting pet ownership amongst the homeless people of Toronto. Today, Dr. Hirani continues providing excellence in veterinary care through mobile preventative and palliative services and relief veterinary services as she continues reaching out to the homeless to support the immeasurable bond between them and their pets. \n\nIt is her vision to ensure that every person who needs the love and support of a furry companion can do so without judgement, and without limitation by the cost of veterinary services.",
 			"image_path": "https://static.wixstatic.com/media/6a6770_4cbdfa83f4504f7f8b77c1c15eb08933~mv2_d_2725_3384_s_4_2.jpg/v1/crop/x_491,y_0,w_1603,h_1597/fill/w_160,h_160,al_c,q_80,usm_0.66_1.00_0.01/6a6770_4cbdfa83f4504f7f8b77c1c15eb08933~mv2_d_2725_3384_s_4_2.webp",
 			"company": "Foxboro Veterinary Hospital",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
 		},
 		{
 			"id": "craig",
 			"name": "Craig Gibson",
-			"bio": "Todd Chavez is a friendly and lovable human slacker who ended up at BoJack's house for a party five years before the beginning of the series and never left. Although BoJack constantly voices disdain for him, he secretly cares about Todd, continuing to financially support him and sabotage his attempts to gain independence.\n\nTodd has been shown to possess a plethora of skills including an understanding of Japanese; entrepreneurial know-how, having allied with Mr. Peanutbutter for various business ideas; and writing and composing his own rock opera- Newtopia Rising, Book I: The Search for a New Utopia. His rock opera was eventually sabotaged by BoJack, who took advantage of his former addiction to video games. Todd puts the pieces together of what BoJack did string map style and begins to question his friendship with BoJack.\n\nTodd also has an uncanny knack for getting himself in absurd and extremely dangerous situations when his friends aren't around, such as getting into gun fights on several occasions, ending up in prison, and in one case switching places Prince and the Pauper-style with a Cordovian dictator. Todd's friendship with Mr. Peanutbutter landed him various jobs creating seemingly useless products. He sees the best in BoJack, despite his multitude of problems, up until \"It's You\" in season three, where he ultimately decides to cut BoJack out of his life. He's usually happy, even when being insulted by BoJack.\n\nCatch Phrases include shouting \"hooray!\". He is also almost never seen without wearing his signature yellow beanie. In the 2000s he was an aimless skateboarder, and the object of affection of his schoolmate, Emily. It is revealed in the season 3 finale \"That Went Well\" that he is asexual.",
+			"bio": "Craig Gibson has won eight awards in information security and a nomination for Fraud Examiner of the Year 2018. As a United Nations Delegate to China he presented research on 5G Telecommunications, IoT, 9-1-1, Public Safety, Payment Cards, the security of voice services, Call Center authentication (cost reduction), Criminal Code issues relating to fraud and unlawful interception of communications.\n\nCraig has spoken on national infrastructure security topics to diplomats visiting Canada, public safety officials, police executives, and military officials. Craig’s technology projects have involved more than four dozen countries and up to two dozen companies at once. Craig was a Chief Security Architect for multi-billion dollar projects and multi-trillion-dollar-plus financial portfolios. Craig has served on many Boards of Directors and was CEO of a security strategy company for 10 years.\n\nCraig’s research is in 5G and 5G Machine Learning (Security Orchestration), Telecom, Satellite, Banking and Money Laundering, and Privacy vs Surveillance. Craig is an advisor to governments, banks, telcos, and groups such as Europol and United Nations.",
 			"image_path": "https://static.wixstatic.com/media/6a6770_5b7ad71bc61545d59b8ae8c31c2be756~mv2_d_4500_2252_s_2.jpg/v1/crop/x_759,y_0,w_2250,h_2252/fill/w_160,h_160,al_c,q_80,usm_0.66_1.00_0.01/6a6770_5b7ad71bc61545d59b8ae8c31c2be756~mv2_d_4500_2252_s_2.webp",
 			"company": "Trend Micro, Threat Defense Architect",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
+
 		},
 		{
 			"id": "thea",
 			"name": "Thea Kurdi",
-			"bio": "Todd Chavez is a friendly and lovable human slacker who ended up at BoJack's house for a party five years before the beginning of the series and never left. Although BoJack constantly voices disdain for him, he secretly cares about Todd, continuing to financially support him and sabotage his attempts to gain independence.\n\nTodd has been shown to possess a plethora of skills including an understanding of Japanese; entrepreneurial know-how, having allied with Mr. Peanutbutter for various business ideas; and writing and composing his own rock opera- Newtopia Rising, Book I: The Search for a New Utopia. His rock opera was eventually sabotaged by BoJack, who took advantage of his former addiction to video games. Todd puts the pieces together of what BoJack did string map style and begins to question his friendship with BoJack.\n\nTodd also has an uncanny knack for getting himself in absurd and extremely dangerous situations when his friends aren't around, such as getting into gun fights on several occasions, ending up in prison, and in one case switching places Prince and the Pauper-style with a Cordovian dictator. Todd's friendship with Mr. Peanutbutter landed him various jobs creating seemingly useless products. He sees the best in BoJack, despite his multitude of problems, up until \"It's You\" in season three, where he ultimately decides to cut BoJack out of his life. He's usually happy, even when being insulted by BoJack.\n\nCatch Phrases include shouting \"hooray!\". He is also almost never seen without wearing his signature yellow beanie. In the 2000s he was an aimless skateboarder, and the object of affection of his schoolmate, Emily. It is revealed in the season 3 finale \"That Went Well\" that he is asexual.",
+			"bio": "Thea Kurdi has over 15 years experience in universal design to architectural projects of varying size and complexity. She has also taught courses in universal design and sustainable design at the Sheridan Institute of Technology and Advanced Learning. \n\nThea is registered with Global Alliance on Accessible Technologies and Environments (GAATES) and an affiliate member of the Royal Architectural Institute of Canada. She is also the host of the award-winning Accessibility Edge radio show, and a member of the RAIC’s Age Friendly Housing Task Force. \n\nThea has presented in conferences around the world including at the Canadian Home Builders Association's conference in 2010 about accessible housing, TRANSED 2012 in India, and as a panellist for the National Accessibility Summit.",
 			"image_path": "https://static.wixstatic.com/media/6a6770_321df3496b4645428a33c624727ed4e7~mv2_d_3507_3017_s_4_2.jpg/v1/crop/x_490,y_0,w_3017,h_3017/fill/w_160,h_160,al_c,q_80,usm_0.66_1.00_0.01/6a6770_321df3496b4645428a33c624727ed4e7~mv2_d_3507_3017_s_4_2.webp",
 			"company": "DesignABLE Environments Inc.",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
+
 		},
 		{
 			"id": "netra",
 			"name": "Netra Unni Rajesh",
-			"bio": "Todd Chavez is a friendly and lovable human slacker who ended up at BoJack's house for a party five years before the beginning of the series and never left. Although BoJack constantly voices disdain for him, he secretly cares about Todd, continuing to financially support him and sabotage his attempts to gain independence.\n\nTodd has been shown to possess a plethora of skills including an understanding of Japanese; entrepreneurial know-how, having allied with Mr. Peanutbutter for various business ideas; and writing and composing his own rock opera- Newtopia Rising, Book I: The Search for a New Utopia. His rock opera was eventually sabotaged by BoJack, who took advantage of his former addiction to video games. Todd puts the pieces together of what BoJack did string map style and begins to question his friendship with BoJack.\n\nTodd also has an uncanny knack for getting himself in absurd and extremely dangerous situations when his friends aren't around, such as getting into gun fights on several occasions, ending up in prison, and in one case switching places Prince and the Pauper-style with a Cordovian dictator. Todd's friendship with Mr. Peanutbutter landed him various jobs creating seemingly useless products. He sees the best in BoJack, despite his multitude of problems, up until \"It's You\" in season three, where he ultimately decides to cut BoJack out of his life. He's usually happy, even when being insulted by BoJack.\n\nCatch Phrases include shouting \"hooray!\". He is also almost never seen without wearing his signature yellow beanie. In the 2000s he was an aimless skateboarder, and the object of affection of his schoolmate, Emily. It is revealed in the season 3 finale \"That Went Well\" that he is asexual.",
+			"bio": "Netra is a third year Engineering Science student at the University of Toronto with a specialization in Biomedical engineering. She obtained her first laboratory work term at the Sunnybrook Research Institute when she was just 16 years old. She pursued an internship at the National University of Singapore where she worked on developing a microfluidic device to test cancer patients’ response to radiotherapy.\n\nNetra is currently working at the California Institute of Technology (CalTech) where she is developing and engineering bioreactor devices for cancer vaccines. This fall, she will be taking a year off to work at MIT on a drug development project. Netra is an advocate for exposing young students to STEM and is thrilled to share her ideas at TEDxMississauga on better integrating hands-on STEM education into the school curriculum.",
 			"image_path": "https://static.wixstatic.com/media/6a6770_13a4cfb207994489878ff5b99c935988~mv2.jpg/v1/crop/x_22,y_0,w_808,h_808/fill/w_160,h_160,al_c,q_80,usm_0.66_1.00_0.01/6a6770_13a4cfb207994489878ff5b99c935988~mv2.webp",
 			"company": "Student, University of Toronto",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
 		},
 		{
 			"id": "ruth",
 			"name": "Dr. Ruth Ross",
-			"bio": "Todd Chavez is a friendly and lovable human slacker who ended up at BoJack's house for a party five years before the beginning of the series and never left. Although BoJack constantly voices disdain for him, he secretly cares about Todd, continuing to financially support him and sabotage his attempts to gain independence.\n\nTodd has been shown to possess a plethora of skills including an understanding of Japanese; entrepreneurial know-how, having allied with Mr. Peanutbutter for various business ideas; and writing and composing his own rock opera- Newtopia Rising, Book I: The Search for a New Utopia. His rock opera was eventually sabotaged by BoJack, who took advantage of his former addiction to video games. Todd puts the pieces together of what BoJack did string map style and begins to question his friendship with BoJack.\n\nTodd also has an uncanny knack for getting himself in absurd and extremely dangerous situations when his friends aren't around, such as getting into gun fights on several occasions, ending up in prison, and in one case switching places Prince and the Pauper-style with a Cordovian dictator. Todd's friendship with Mr. Peanutbutter landed him various jobs creating seemingly useless products. He sees the best in BoJack, despite his multitude of problems, up until \"It's You\" in season three, where he ultimately decides to cut BoJack out of his life. He's usually happy, even when being insulted by BoJack.\n\nCatch Phrases include shouting \"hooray!\". He is also almost never seen without wearing his signature yellow beanie. In the 2000s he was an aimless skateboarder, and the object of affection of his schoolmate, Emily. It is revealed in the season 3 finale \"That Went Well\" that he is asexual.",
+			"bio": "Ruth Ross is engaged in research into the molecular pharmacology of the cannabinoids and related lipid signalling systems. Her research is directed both toward gaining insight into the deleterious effects of cannabis smoking, the potential for cannabis a medicine and the development of small molecules targeting G protein coupled receptors. Together with medicinal chemists she is engaged in the development of novel small molecule therapeutics for major diseases including chronic pain, addiction, cancer and diabetes.\n\nContact: \n\nDepartment of Pharmacology and Toxicology\nRoom 4207, Medical Sciences Building \n1 King's College Circle \nToronto, Ontario \nM5S 1A8 \nPhone: 416-978-2723 \nFAX: 416-978-6395 \nEmail: ruth.ross@utoronto.ca",
 			"image_path": "https://static.wixstatic.com/media/6a6770_fbb59c8030824ba0a73003ea8e715b49~mv2.jpg/v1/fill/w_160,h_160,al_c,q_80,usm_0.66_1.00_0.01/Ross%2C%20Ruth_edited.webp",
 			"company": "Student, University of Toronto",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
 		},
 		{
 			"id": "wali",
 			"name": "Wali Shah",
-			"bio": "Todd Chavez is a friendly and lovable human slacker who ended up at BoJack's house for a party five years before the beginning of the series and never left. Although BoJack constantly voices disdain for him, he secretly cares about Todd, continuing to financially support him and sabotage his attempts to gain independence.\n\nTodd has been shown to possess a plethora of skills including an understanding of Japanese; entrepreneurial know-how, having allied with Mr. Peanutbutter for various business ideas; and writing and composing his own rock opera- Newtopia Rising, Book I: The Search for a New Utopia. His rock opera was eventually sabotaged by BoJack, who took advantage of his former addiction to video games. Todd puts the pieces together of what BoJack did string map style and begins to question his friendship with BoJack.\n\nTodd also has an uncanny knack for getting himself in absurd and extremely dangerous situations when his friends aren't around, such as getting into gun fights on several occasions, ending up in prison, and in one case switching places Prince and the Pauper-style with a Cordovian dictator. Todd's friendship with Mr. Peanutbutter landed him various jobs creating seemingly useless products. He sees the best in BoJack, despite his multitude of problems, up until \"It's You\" in season three, where he ultimately decides to cut BoJack out of his life. He's usually happy, even when being insulted by BoJack.\n\nCatch Phrases include shouting \"hooray!\". He is also almost never seen without wearing his signature yellow beanie. In the 2000s he was an aimless skateboarder, and the object of affection of his schoolmate, Emily. It is revealed in the season 3 finale \"That Went Well\" that he is asexual.",
+			"bio": "",
 			"image_path": "https://static.wixstatic.com/media/6a6770_70de540ef092400981e3e4883ece6777~mv2_d_1500_2250_s_2.jpg/v1/crop/x_239,y_0,w_994,h_998/fill/w_216,h_215,al_c,q_80,usm_0.66_1.00_0.01/WALI-7053-web.webp",
 			"company": "Poet Laureate",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
 		},
 		{
 			"id": "michelle",
 			"name": "Michelle Hillier",
-			"bio": "Todd Chavez is a friendly and lovable human slacker who ended up at BoJack's house for a party five years before the beginning of the series and never left. Although BoJack constantly voices disdain for him, he secretly cares about Todd, continuing to financially support him and sabotage his attempts to gain independence.\n\nTodd has been shown to possess a plethora of skills including an understanding of Japanese; entrepreneurial know-how, having allied with Mr. Peanutbutter for various business ideas; and writing and composing his own rock opera- Newtopia Rising, Book I: The Search for a New Utopia. His rock opera was eventually sabotaged by BoJack, who took advantage of his former addiction to video games. Todd puts the pieces together of what BoJack did string map style and begins to question his friendship with BoJack.\n\nTodd also has an uncanny knack for getting himself in absurd and extremely dangerous situations when his friends aren't around, such as getting into gun fights on several occasions, ending up in prison, and in one case switching places Prince and the Pauper-style with a Cordovian dictator. Todd's friendship with Mr. Peanutbutter landed him various jobs creating seemingly useless products. He sees the best in BoJack, despite his multitude of problems, up until \"It's You\" in season three, where he ultimately decides to cut BoJack out of his life. He's usually happy, even when being insulted by BoJack.\n\nCatch Phrases include shouting \"hooray!\". He is also almost never seen without wearing his signature yellow beanie. In the 2000s he was an aimless skateboarder, and the object of affection of his schoolmate, Emily. It is revealed in the season 3 finale \"That Went Well\" that he is asexual.",
+			"bio": "",
 			"image_path": "https://static.wixstatic.com/media/6a6770_01b0ed4e6dab4595b8e0508c5a9a24c1~mv2.jpg/v1/crop/x_117,y_30,w_181,h_181/fill/w_216,h_217,al_c,lg_1,q_80/Michelle%2BHillier%2BWall%2BHeadshot.webp",
 			"company": "Experience Groove",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
 		},
 		{
 			"id": "arlene",
 			"name": "Arlene Paculan",
-			"bio": "Todd Chavez is a friendly and lovable human slacker who ended up at BoJack's house for a party five years before the beginning of the series and never left. Although BoJack constantly voices disdain for him, he secretly cares about Todd, continuing to financially support him and sabotage his attempts to gain independence.\n\nTodd has been shown to possess a plethora of skills including an understanding of Japanese; entrepreneurial know-how, having allied with Mr. Peanutbutter for various business ideas; and writing and composing his own rock opera- Newtopia Rising, Book I: The Search for a New Utopia. His rock opera was eventually sabotaged by BoJack, who took advantage of his former addiction to video games. Todd puts the pieces together of what BoJack did string map style and begins to question his friendship with BoJack.\n\nTodd also has an uncanny knack for getting himself in absurd and extremely dangerous situations when his friends aren't around, such as getting into gun fights on several occasions, ending up in prison, and in one case switching places Prince and the Pauper-style with a Cordovian dictator. Todd's friendship with Mr. Peanutbutter landed him various jobs creating seemingly useless products. He sees the best in BoJack, despite his multitude of problems, up until \"It's You\" in season three, where he ultimately decides to cut BoJack out of his life. He's usually happy, even when being insulted by BoJack.\n\nCatch Phrases include shouting \"hooray!\". He is also almost never seen without wearing his signature yellow beanie. In the 2000s he was an aimless skateboarder, and the object of affection of his schoolmate, Emily. It is revealed in the season 3 finale \"That Went Well\" that he is asexual.",
+			"bio": "",
 			"image_path": "https://static.wixstatic.com/media/6a6770_7a4430421d9940659afad5e7b8483649~mv2.jpg/v1/crop/x_205,y_221,w_336,h_347/fill/w_210,h_215,al_c,q_80,usm_0.66_1.00_0.01/unnamed.webp",
 			"company": "Vocalist",
-			"twitter": "https://twitter.com/BoJackHorseman",
-			"linked_in": "https://example.com",
-			"github": "https://github.com/mimicmobile/flutter-conference-app"
+			"twitter": "",
+			"linked_in": ""
 		}
 
 	],
