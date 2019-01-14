@@ -290,7 +290,7 @@
 			"time": "11:00am",
 			"talks": [{
 				"speaker_id": "craig",
-				"track_id": "main",
+				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Cybersecurity",
 				"description": "Cyber terrorism"
@@ -300,7 +300,7 @@
 			"time": "11:20am",
 			"talks": [{
 				"speaker_id": "nadia",
-				"track_id": "main",
+				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Pets x Happiness",
 				"description": "Happy Pets"
@@ -328,7 +328,7 @@
 			"time": "12:50pm",
 			"talks": [{
 				"speaker_id": "thea",
-				"track_id": "main",
+				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Accessibility",
 				"description": "Accessibility for all"
@@ -338,7 +338,7 @@
 			"time": "1:10pm",
 			"talks": [{
 				"speaker_id": "marwa",
-				"track_id": "main",
+				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Depression and pain",
 				"description": "Depression and Pscyology"
@@ -357,7 +357,7 @@
 			"time": "1:50pm",
 			"talks": [{
 				"speaker_id": "ruth",
-				"track_id": "main",
+				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Indocannobinod system",
 				"description": "Recreational cannabis use"
@@ -385,7 +385,7 @@
 			"time": "3:00pm",
 			"talks": [{
 				"speaker_id": "netra",
-				"track_id": "main",
+				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Achieve",
 				"description": "Acheive what you wish and put your mind do"
