@@ -11,78 +11,78 @@
 		"contact_email": "mailto:info@tedxmississauga.com",
 		"link_types": [{
 			"id": "supporter",
-			"name": "Community Partners & Supporters"
+			"name": "Partners & Supporters"
 		}],
 		"links": [{
 				"name": "Teal Events",
 				"image_path": "https://static.wixstatic.com/media/6a6770_67be41279efa40719be94d5c5c780fdf~mv2_d_1200_1200_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_67be41279efa40719be94d5c5c780fdf~mv2_d_1200_1200_s_2.webp",
-				"website": "",
+				"website": "http://tealevents.ca/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Greater Toronto Marketing",
 				"image_path": "https://static.wixstatic.com/media/6a6770_85ddb3d86f6d46c788a48f77407e38d0~mv2_d_1200_1200_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_85ddb3d86f6d46c788a48f77407e38d0~mv2_d_1200_1200_s_2.webp",
-				"website": "",
+				"website": "http://greatertorontomarketing.ca/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "KPA Lawyers",
 				"image_path": "https://static.wixstatic.com/media/6a6770_6daf4ca41cdb469489850b7c16ed8737~mv2_d_2000_2000_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_6daf4ca41cdb469489850b7c16ed8737~mv2_d_2000_2000_s_2.webp",
-				"website": "",
+				"website": "http://kpalawyers.ca/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Canadian Blood Services",
 				"image_path": "https://static.wixstatic.com/media/6a6770_5c128d572afa4d65b7f7097d0b62ef60~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_5c128d572afa4d65b7f7097d0b62ef60~mv2.webp",
-				"website": "",
+				"website": "https://blood.ca/en",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Sauga 960FM",
 				"image_path": "https://static.wixstatic.com/media/6a6770_80f29ffb78b948858f03a713c196b5c0~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_80f29ffb78b948858f03a713c196b5c0~mv2.webp",
-				"website": "",
+				"website": "https://sauga960am.ca/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "SCI ART",
 				"image_path": "https://static.wixstatic.com/media/6a6770_e26b26422ec041179832c01965b6c406~mv2.jpg/v1/fill/w_218,h_227,al_c,lg_1,q_80/6a6770_e26b26422ec041179832c01965b6c406~mv2.webp",
-				"website": "",
+				"website": "https://sciart-prints.com/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "AGM",
 				"image_path": "https://static.wixstatic.com/media/6a6770_eae54902c8154f93a5a55f2f2a6c6d1c~mv2_d_2700_1400_s_2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_eae54902c8154f93a5a55f2f2a6c6d1c~mv2_d_2700_1400_s_2.webp",
-				"website": "/",
+				"website": "https://www.artgalleryofmississauga.com/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Studio.89",
 				"image_path": "https://static.wixstatic.com/media/6a6770_46bd8464dc584eee9d9d52214fcf0a7a~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_46bd8464dc584eee9d9d52214fcf0a7a~mv2.webp",
-				"website": "",
+				"website": "https://studio89.org/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Dr. Sabrina Ahmed",
 				"image_path": "https://static.wixstatic.com/media/6a6770_ed1e09cdd7c24781b4c173f6bec2a583~mv2.jpg/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_ed1e09cdd7c24781b4c173f6bec2a583~mv2.webp",
-				"website": "",
+				"website": "https://www.myeyedoc.ca/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Simply Elegant by Fouzia",
 				"image_path": "https://static.wixstatic.com/media/6a6770_c6bc7fee4eac4965aa6e6d8bc024a23a~mv2.png/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_c6bc7fee4eac4965aa6e6d8bc024a23a~mv2.webp",
-				"website": "",
+				"website": "https://www.instagram.com/simplyelegantbyfouzia/",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Slap Stick",
 				"image_path": "https://static.wixstatic.com/media/6a6770_65bda85512e84a2fb1c4cd7174a50be6~mv2.jpg/v1/fill/w_218,h_227,al_c,q_80,usm_0.66_1.00_0.01/6a6770_65bda85512e84a2fb1c4cd7174a50be6~mv2.webp",
-				"website": "",
+				"website": "https://www.facebook.com/pg/SlapStick-Adhesive-995227067328919/photos/?tab=album&album_id=1031162053735420",
 				"link_type_id": "supporter"
 			},
 			{
 				"name": "Soho Sweet Carts",
 				"image_path": "https://static.wixstatic.com/media/6a6770_75b76ff7f1b648b28c5ee8acfeecd609~mv2.jpg/v1/fill/w_202,h_210,al_c,lg_1,q_80/6a6770_75b76ff7f1b648b28c5ee8acfeecd609~mv2.webp",
-				"website": "",
+				"website": "https://www.instagram.com/sohosweetcarts/?hl=en",
 				"link_type_id": "supporter"
 			}
 
