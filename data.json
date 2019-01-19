@@ -189,6 +189,24 @@
 			"company": "Master of Ceremonies",
 			"twitter": "",
 			"linked_in": ""
+		},
+		{
+			"id": "ronit",
+			"name": "Dr. Ronit Wilk",
+			"bio": "",
+			"image_path": "",
+			"company": "SciArt",
+			"twitter": "",
+			"linked_in": ""
+		},
+		{
+			"id": "ishwaria",
+			"name": "Ishwaria Chandrabala",
+			"bio": "",
+			"image_path": "",
+			"company": "Dance",
+			"twitter": "",
+			"linked_in": ""
 		}
 
 	],
@@ -248,7 +266,7 @@
 			}]
 		},
 		{
-			"time": "9:55am",
+			"time": "9:45am",
 			"talks": [{
 				"speaker_id": "randy",
 				"track_id": "track1",
@@ -258,7 +276,7 @@
 			}]
 		},
 		{
-			"time": "10:10am",
+			"time": "10:15m",
 			"talks": [{
 				"speaker_id": "michelle",
 				"track_id": "track2",
@@ -274,7 +292,7 @@
 				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Prisons",
-				"description": "Decription about prisons"
+				"description": "Talk about prisons"
 			}]
 		},
 		{
@@ -303,7 +321,7 @@
 				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "Pets x Happiness",
-				"description": "Happy Pets"
+				"description": "Effect pets have on our lives"
 			}]
 		},
 		{
@@ -359,8 +377,8 @@
 				"speaker_id": "ruth",
 				"track_id": "track1",
 				"talk_type_id": "talk",
-				"title": "Indocannobinod system",
-				"description": "Recreational cannabis use"
+				"title": "Endocannabinoid system",
+				"description": "Unravelling the Endocannabinoid system"
 			}]
 		},
 		{
@@ -369,16 +387,16 @@
 				"speaker_id": "arlene",
 				"track_id": "track2",
 				"talk_type_id": "performance",
-				"title": "Not sure",
+				"title": "Performance",
 				"description": ""
 			}]
 		},
 		{
-			"time": "2:20pm",
+			"time": "2:30pm",
 			"talks": [{
 				"talk_type_id": "break",
-				"title": "Lunch",
-				"description": "Enjoy lunch and conversation"
+				"title": "Break",
+				"description": "Enjoy the break and network away"
 			}]
 		},
 		{
@@ -392,6 +410,16 @@
 			}]
 		},
 		{
+			"time": "3:20pm",
+			"talks": [{
+				"speaker_id": "ronin",
+				"track_id": "track1",
+				"talk_type_id": "talk",
+				"title": "SciArt",
+				"description": "Artist's Statement"
+			}]
+		},
+		{
 			"time": "3:30pm",
 			"talks": [{
 				"track_id": "track3",
@@ -399,7 +427,18 @@
 				"title": "TED talk",
 				"description": ""
 			}]
+		},
+		{
+			"time": "3:45pm",
+			"talks": [{
+				"speaker_id": "ishwaria",
+				"track_id": "track2",
+				"talk_type_id": "performance",
+				"title": "Performance",
+				"description": ""
+			}]
 		}
+
 
 
 	]
