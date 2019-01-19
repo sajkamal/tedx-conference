@@ -412,7 +412,7 @@
 		{
 			"time": "3:20pm",
 			"talks": [{
-				"speaker_id": "ronin",
+				"speaker_id": "ronit",
 				"track_id": "track1",
 				"talk_type_id": "talk",
 				"title": "SciArt",
